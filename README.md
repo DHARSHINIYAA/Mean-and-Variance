@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+# EX.1 Mean and variance of a discrete  distribution
 #DHARSHINIYAA KS 212223100004
 #CSE(CS)
 
